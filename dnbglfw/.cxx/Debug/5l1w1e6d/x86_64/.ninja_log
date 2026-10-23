@@ -1,0 +1,24 @@
+# ninja log v5
+26	4833	8021792660260414	glfw/src/CMakeFiles/glfw.dir/context.c.o	f992935c1a7fd8af
+52	5175	8021792663460384	glfw/src/CMakeFiles/glfw.dir/input.c.o	439c8ccddfa6388c
+39	6117	8021792667540454	glfw/src/CMakeFiles/glfw.dir/monitor.c.o	387d04d3bb30fdea
+155	7238	8021792684460444	glfw/src/CMakeFiles/glfw.dir/null_init.c.o	28526ef952c5c0e6
+2	7413	8021792686140445	glfw/src/CMakeFiles/glfw.dir/init.c.o	f2e355218603e517
+278	7897	8021792690570421	glfw/src/CMakeFiles/glfw.dir/posix_module.c.o	98c257cda6abe538
+170	8020	8021792688400438	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o	a0ca97e1c7c9bdd8
+82	8146	8021792690520413	glfw/src/CMakeFiles/glfw.dir/vulkan.c.o	4d7ce5f3964102b8
+232	8363	8021792689370426	glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o	c2e9dcdb60cf673d
+262	8528	8021792691160471	glfw/src/CMakeFiles/glfw.dir/null_window.c.o	f6a5beb3fc4521cc
+67	8585	8021792689500417	glfw/src/CMakeFiles/glfw.dir/platform.c.o	65e1e42916607a7d
+7943	8673	8021792696570416	glfw/src/CMakeFiles/glfw.dir/android_window_hook.c.o	bdc24e8a187f5c9d
+8239	8965	8021792701540466	glfw/src/CMakeFiles/glfw.dir/android_input_queue.c.o	962c53e12efd0439
+248	9079	8021792702520441	glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o	fcb4bae330d1fe82
+101	9225	8021792702810447	glfw/src/CMakeFiles/glfw.dir/window.c.o	8050ce70bf048531
+139	9280	8021792703680436	glfw/src/CMakeFiles/glfw.dir/egl_context.c.o	815ca3653f9ef8f0
+4939	10032	8021792712100407	glfw/src/CMakeFiles/glfw.dir/posix_time.c.o	463741dacb058594
+5220	10097	8021792712850434	glfw/src/CMakeFiles/glfw.dir/android_joystick.c.o	c8439ed287b56644
+6190	10200	8021792714060417	glfw/src/CMakeFiles/glfw.dir/android_init.c.o	5a7c1f456a3f8dd
+7270	10402	8021792716260427	glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o	e3670420929ea63d
+8080	10474	8021792716660403	glfw/src/CMakeFiles/glfw.dir/android_monitor.c.o	4a4a422f402510c6
+7460	10599	8021792718240419	glfw/src/CMakeFiles/glfw.dir/android_window.c.o	47ad3f9f5f0dc2b2
+10619	11070	8021792722990437	C:/Users/ASHMEET/StudioProjects/HyperLauncherRework/dnbglfw/build/intermediates/cxx/Debug/5l1w1e6d/obj/x86_64/libglfw.so	c6c293b857b8966f

@@ -1,0 +1,24 @@
+# ninja log v5
+35	1549	8026788583826103	glfw/src/CMakeFiles/glfw.dir/platform.c.o	daa1a0b516f1c696
+113	1609	8026788584316153	glfw/src/CMakeFiles/glfw.dir/posix_time.c.o	97b9a9ab339c1a09
+104	1650	8026788584046142	glfw/src/CMakeFiles/glfw.dir/posix_module.c.o	e11e3ef12f215ca5
+43	1703	8026788584676130	glfw/src/CMakeFiles/glfw.dir/vulkan.c.o	28fc5de0361a2324
+13	1739	8026788585276130	glfw/src/CMakeFiles/glfw.dir/init.c.o	96bbd8ae84f58439
+97	1765	8026788584796141	glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o	61e520059095f57a
+61	1796	8026788584496161	glfw/src/CMakeFiles/glfw.dir/null_init.c.o	86e517a6ed533baa
+52	1819	8026788584596126	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o	52cea7c454427feb
+7	1857	8026788585526167	glfw/src/CMakeFiles/glfw.dir/monitor.c.o	806ad59d1919907a
+26	1875	8026788585836131	glfw/src/CMakeFiles/glfw.dir/window.c.o	42f2e9f6d608e4d2
+1	1892	8026788585636181	glfw/src/CMakeFiles/glfw.dir/context.c.o	c2d39ad8d75155fd
+70	1908	8026788586046098	glfw/src/CMakeFiles/glfw.dir/egl_context.c.o	ed1325d86230113b
+86	1922	8026788585776100	glfw/src/CMakeFiles/glfw.dir/null_window.c.o	f6b46c9d224c7b76
+1811	1936	8026788587486099	glfw/src/CMakeFiles/glfw.dir/android_input_queue.c.o	8356a415ea9c8ba3
+1839	1937	8026788587616127	glfw/src/CMakeFiles/glfw.dir/android_window_hook.c.o	c0f09a0e278040b7
+19	1944	8026788587446106	glfw/src/CMakeFiles/glfw.dir/input.c.o	f5c7de46d9a63243
+1578	2896	8026788597136156	glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o	1d9676519f0ae058
+1727	2918	8026788597306141	glfw/src/CMakeFiles/glfw.dir/android_init.c.o	9e103c78e07c6541
+1677	2958	8026788597316201	glfw/src/CMakeFiles/glfw.dir/android_joystick.c.o	e4d0ead2fce22fe7
+1783	2979	8026788597486137	glfw/src/CMakeFiles/glfw.dir/android_monitor.c.o	d52fca806942b466
+1635	2999	8026788597356126	glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o	42b73bd12427125b
+1757	3264	8026788600936070	glfw/src/CMakeFiles/glfw.dir/android_window.c.o	bcb533e3feaf7740
+3281	3403	8026788602369530	C:/Users/ASHMEET/StudioProjects/HyperLauncher/dnbglfw/build/intermediates/cxx/RelWithDebInfo/41251v6p/obj/x86/libglfw.so	e9393951b33f1051

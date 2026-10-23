@@ -1,0 +1,24 @@
+# ninja log v5
+229	3297	8021792053199579	glfw/src/CMakeFiles/glfw.dir/null_init.c.o	aef1731d0fe1406f
+363	3497	8021792054369593	glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o	f1b7f270cd3a027a
+49	3816	8021792054289566	glfw/src/CMakeFiles/glfw.dir/vulkan.c.o	d611548783f6f407
+255	3988	8021792056959573	glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o	dadbbca23f09aba8
+209	4077	8021792054949605	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o	83e95bfd010f5bce
+241	4153	8021792058789581	glfw/src/CMakeFiles/glfw.dir/null_window.c.o	3ae2932761ce7bb4
+312	4213	8021792054249569	glfw/src/CMakeFiles/glfw.dir/posix_module.c.o	f55d639fed0e2c0c
+185	4306	8021792055999546	glfw/src/CMakeFiles/glfw.dir/platform.c.o	31c12389dd659205
+27	4382	8021792059069578	glfw/src/CMakeFiles/glfw.dir/init.c.o	46a22ed38c2b313f
+2	4439	8021792051209589	glfw/src/CMakeFiles/glfw.dir/context.c.o	6db0518cf17dc60d
+197	4489	8021792058629570	glfw/src/CMakeFiles/glfw.dir/egl_context.c.o	f1ae4d83f1b98687
+37	4546	8021792058799568	glfw/src/CMakeFiles/glfw.dir/monitor.c.o	5018bc914b02e8ab
+165	4625	8021792057099599	glfw/src/CMakeFiles/glfw.dir/window.c.o	16e06e7aaca3fca4
+4122	4681	8021792066359530	glfw/src/CMakeFiles/glfw.dir/android_window_hook.c.o	8156d6062a81db23
+17	4712	8021792061109616	glfw/src/CMakeFiles/glfw.dir/input.c.o	410d6c94d683349d
+4340	4875	8021792069139550	glfw/src/CMakeFiles/glfw.dir/android_input_queue.c.o	d3c9c95d067406fe
+4182	6658	8021792086629605	glfw/src/CMakeFiles/glfw.dir/android_monitor.c.o	4387d4c0468a382f
+4020	6728	8021792086579548	glfw/src/CMakeFiles/glfw.dir/android_joystick.c.o	4643b089e8d0825f
+3336	6778	8021792087029579	glfw/src/CMakeFiles/glfw.dir/posix_time.c.o	858093d25456c3b5
+3906	6851	8021792087279514	glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o	84fc21eccdca207d
+3527	6995	8021792087879535	glfw/src/CMakeFiles/glfw.dir/android_init.c.o	f583d5e41b55cc0d
+4261	7290	8021792093189542	glfw/src/CMakeFiles/glfw.dir/android_window.c.o	5ee64f66deaf38ba
+7320	8121	8021792101349545	C:/Users/ASHMEET/StudioProjects/HyperLauncherRework/dnbglfw/build/intermediates/cxx/Debug/5l1w1e6d/obj/armeabi-v7a/libglfw.so	5e029926dad44b20

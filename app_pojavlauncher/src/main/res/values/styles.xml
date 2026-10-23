@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Main Application Theme: Merged into one single Material 3 definition -->
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:statusBarColor">@color/background_status_bar</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>
+        <item name="android:textSize">@dimen/_12ssp</item>
+
+        <!-- NavigationView theming -->
+        <item name="navigationViewStyle">@style/Widget.Material3.NavigationView</item>
+    </style>
+
+    <!-- Dialog theme for activities shown as dialogs -->
+    <style name="AppTheme.Dialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:textSize">@dimen/_12ssp</item>
+    </style>
+
+    <!-- Fullscreen Variant -->
+    <style name="AppTheme.Fullscreen" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- Redundant items kept for safety in legacy fragments -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Notch support -->
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="p">shortEdges</item>
+    </style>
+
+    <!-- UI Component Styles -->
+    <style name="LauncherFragment_Divider">
+        <item name="android:layout_width">@dimen/padding_tiny</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:background">@color/divider</item>
+    </style>
+
+    <style name="LauncherMenuButton" parent="Widget.Material3.Button">
+        <!-- Clean OLED Interaction -->
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Material3.SmallComponent</item> <!-- For rounded corners -->
+    </style>
+
+    <style name="LauncherMenuButton.Universal" parent="LauncherMenuButton">
+        <item name="android:layout_height">@dimen/_66sdp</item>
+    </style>
+
+    <style name="ThickDivider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/_1sdp</item>
+        <item name="android:background">@color/divider</item>
+    </style>
+
+    <item name="dimension_tracker" type="id" />
+    <style name="DimensionTracker">
+        <item name="android:id">@id/dimension_tracker</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+</resources>

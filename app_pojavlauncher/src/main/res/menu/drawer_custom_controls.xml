@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add_button"
+        android:icon="@drawable/ic_add"
+        android:title="@string/customctrl_addbutton" />
+    <item
+        android:id="@+id/menu_add_drawer"
+        android:icon="@drawable/ic_px_drawer_button"
+        android:title="@string/customctrl_addbutton_drawer" />
+    <item
+        android:id="@+id/menu_add_joystick"
+        android:icon="@drawable/ic_px_gamepad"
+        android:title="@string/customctrl_addbutton_joystick" />
+    <item
+        android:id="@+id/menu_load_layout"
+        android:icon="@drawable/ic_px_folder"
+        android:title="@string/global_load" />
+    <item
+        android:id="@+id/menu_save_layout"
+        android:icon="@drawable/ic_px_edit"
+        android:title="@string/global_save" />
+    <item
+        android:id="@+id/menu_select_default"
+        android:icon="@drawable/ic_px_home"
+        android:title="@string/customctrl_selectdefault" />
+    <item
+        android:id="@+id/menu_export_layout"
+        android:icon="@drawable/ic_px_sharelog"
+        android:title="@string/customctrl_export" />
+    <item
+        android:id="@+id/menu_exit_editor"
+        android:icon="@drawable/ic_px_terminate"
+        android:title="@string/customctrl_editor_exit" />
+</menu>

@@ -1,0 +1,36 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\src\\main\\cpp\\glfw\\CMakeLists.txt",
+    "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\src\\main\\cpp\\glfw\\CMake\\glfw3Config.cmake.in",
+    "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\src\\main\\cpp\\glfw\\docs\\CMakeLists.txt",
+    "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\src\\main\\cpp\\glfw\\src\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ASHMEET\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\.cxx\\Debug\\95a5a385\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ASHMEET\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\.cxx\\Debug\\95a5a385\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "glfw::@12507ebf64a5258d241e": {
+      "artifactName": "glfw",
+      "abi": "x86_64",
+      "output": "C:\\Users\\ASHMEET\\StudioProjects\\HyperLauncherRework\\dnbglfw\\build\\intermediates\\cxx\\Debug\\95a5a385\\obj\\x86_64\\libglfw.so",
+      "runtimeFiles": []
+    },
+    "update_mappings::@12507ebf64a5258d241e": {
+      "artifactName": "update_mappings",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    }
+  }
+}

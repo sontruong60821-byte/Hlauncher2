@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_names">
+        <item>System default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>system</item>
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+
+    <string-array name="animation_type_names">
+        <item>None</item>
+        <item>Fade</item>
+        <item>Slide</item>
+    </string-array>
+    <string-array name="animation_type_values">
+        <item>none</item>
+        <item>fade</item>
+        <item>slide</item>
+    </string-array>
+
+    <string-array name="graphics_backend_names">
+        <item>@string/mcl_setting_graphics_backend_default</item>
+        <item>@string/mcl_setting_graphics_backend_opengl</item>
+        <item>@string/mcl_setting_graphics_backend_vulkan</item>
+    </string-array>
+    <string-array name="graphics_backend_values">
+        <item>default</item>
+        <item>opengl</item>
+        <item>vulkan</item>
+    </string-array>
+
+    <string-array name="drawer_button_preset_names">
+        <item>Custom</item>
+        <item>Top Left</item>
+        <item>Top Center</item>
+        <item>Top Right</item>
+        <item>Bottom Left</item>
+        <item>Bottom Center</item>
+        <item>Bottom Right</item>
+        <item>Center Left</item>
+        <item>Center Right</item>
+        <item>Center</item>
+    </string-array>
+    <string-array name="drawer_button_preset_values">
+        <item>custom</item>
+        <item>top_left</item>
+        <item>top_center</item>
+        <item>top_right</item>
+        <item>bottom_left</item>
+        <item>bottom_center</item>
+        <item>bottom_right</item>
+        <item>center_left</item>
+        <item>center_right</item>
+        <item>center</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_force_close"
+        android:icon="@drawable/ic_px_terminate"
+        android:title="@string/control_forceclose" />
+    <item
+        android:id="@+id/menu_view_output"
+        android:icon="@drawable/ic_px_sharelog"
+        android:title="@string/control_viewout" />
+    <item
+        android:id="@+id/menu_custom_key"
+        android:icon="@drawable/ic_px_console"
+        android:title="@string/control_customkey" />
+    <item
+        android:id="@+id/menu_quick_settings"
+        android:icon="@drawable/ic_px_alt_sliders"
+        android:title="@string/quick_setting_title" />
+    <item
+        android:id="@+id/menu_custom_controls"
+        android:icon="@drawable/ic_px_gamepad"
+        android:title="@string/mcl_option_customcontrol" />
+</menu>
