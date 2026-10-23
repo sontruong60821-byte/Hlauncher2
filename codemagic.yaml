@@ -13,7 +13,7 @@ workflows:
         script: git submodule update --init --recursive
 
       - name: Build HLauncher full release APK
-        script:./gradlew --no-daemon --stacktrace assembleFullRelease
+        script: ./gradlew --no-daemon --stacktrace --info assembleFullRelease
     artifacts:
       - app_pojavlauncher/build/outputs/apk/**/*.apk
       - app_pojavlauncher/build/outputs/mapping/**/*.txt
